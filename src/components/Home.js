@@ -13,9 +13,8 @@ const Home = () => {
           I'm a Software Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a Software developer specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently, I’m focused on
-          building responsive full-stack web applications.
+          I’m a Software developer wanting to speacialize in Web development or any form of design, I have created this website to showcase my 
+          skills and experience. I am pasionate about programming and simply enjoy a challenge, I'm flexible and able to adapt to my environment
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>

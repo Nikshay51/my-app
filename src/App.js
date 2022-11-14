@@ -23,11 +23,6 @@ Date: 10 March 2022
 URL:https://www.youtube.com/watch?v=2kg0z1qNrkw
 github: https://github.com/fireclint/portfolio-app-react
 */
-/*Github
-https://github.com/machadop1407/react-personal-portfolio-website/tree/master/src/components
-https://www.youtube.com/watch?v=x7mwVn2z3Sk
-https://www.youtube.com/watch?v=hQjlM-8C4Ps*/
-
 
 // Code attribution
 /*
@@ -41,4 +36,14 @@ URL:https://tailwindcss.com/
 author:getform
 Date: no date
 URL:https://getform.io/
+*/
+
+/*Github and other sources
+https://github.com/machadop1407/react-personal-portfolio-website/tree/master/src/components
+https://www.youtube.com/watch?v=x7mwVn2z3Sk
+https://www.youtube.com/watch?v=hQjlM-8C4Ps*/
+
+//code attribution -deployment
+/* 
+
 */

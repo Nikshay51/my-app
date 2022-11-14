@@ -23,11 +23,26 @@ const About = () => {
               way to large enterprise corporations. What would you do if you had
               a software expert available at your fingertips?</p>  
             </div>
-            <div>
-              <p>Sovtech why</p>  
+            <div >
+              <p>
+                <h1 className='text-20 font-bold border-b-4 border-pink-600'> Why I want to be a developer at SovTech?</h1>
+                I wish to gain insight into the company, understand different departments and what they do, this way I can get a chance to 
+                specialise and with SovTech this is what I want to gain from the programme. 
+                Personal guidance and mentoring, if a senior is assigned to me, I love asking questions to understand every detail and I feel at SovTech this will help me grow and add to my personal growth.
+                A stronger CV, this programme will help me to stand out in the job market as SovTech is a very reputable company.
+                I want to work at SovTech as I have always being intrigued by Software Development and the impact it has had on my life. 
+                I have also found that I achieve more in a collaborative environment and look forward to work in several departments that align to my goals.
+                </p>  
             </div>
+
             <div>
-              <p>Sovtech why</p>  
+              <p>
+              <h1 className='text-20 font-bold border-b-4 border-pink-600'> Continued...</h1>
+                I have a passion towards the companies personal mission and feel as an individual with my skill set can grow in the productive environment and add to the mission of the company and it fits well with my core values. 
+                I want to gain exposure in this company and be able to make an impact on the company and gain the trust from my co workers over the time. I want my coworkers to see me as part of the team and someone they can rely on. 
+                My passion for tech extends beyond IT, it has helped me improve my life and others, I was able to use my skills to big about change "Small wins" graduate programme is my opportunity to be a lump of clay and be moulded into the person I want to be. 
+                I see myself excelling in this role given my experience level, because I have done similar work in the past and know what it takes. 
+                 </p>  
             </div>
           </div>
       </div>
