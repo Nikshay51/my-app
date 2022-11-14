@@ -28,7 +28,7 @@ const About = () => {
                Ambitious
                </li>
                <li>
-               Empathy
+               Empathetic
                </li>
              
             </div>
@@ -38,19 +38,19 @@ const About = () => {
                
               <p> I have studied BCA - Bachelor in Computer Application Development</p>
               <li>
-               Technical skills
+               C#
                </li>
                <li>
-                Resourcefulness
+                React
                </li>
                <li>
-               Problem solving
+               Java
                </li>
                <li>
-               Open mindedness
+               Firebase
                </li>
                <li>
-               Detail orientated
+               Android Studio
                </li>
              
             </div> 
