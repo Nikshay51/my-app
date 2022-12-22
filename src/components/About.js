@@ -22,7 +22,7 @@ const About = () => {
                Leader
                </li>
                <li>
-               Team Player
+               Problem solver
                </li>
                <li>
                Ambitious
@@ -44,7 +44,7 @@ const About = () => {
                 React
                </li>
                <li>
-               Java
+               SQL
                </li>
                <li>
                Firebase
