@@ -6,11 +6,12 @@ const About = () => {
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
-            <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
-              About
-            </p>
+            <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>
+              About 
+            </p> 
+            <p className=' text-40 font-semibold'>Studied Bachelor in Computer Application Development</p>    
           </div>
-          <div></div>
+
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div >
@@ -36,7 +37,6 @@ const About = () => {
             <div >
                <h1 className='text-20 font-bold border-b-4 inline border-pink-600'> Development skills: </h1>
                
-              <p> I have studied BCA - Bachelor in Computer Application Development</p>
               <li>
                C#
                </li>
@@ -57,12 +57,12 @@ const About = () => {
             </div>
             <div >
               <p>
-                <h1 className='text-20 font-bold border-b-4  border-pink-600'> Why I want to be a developer at SovTech?</h1>
+                <h1 className='text-20 font-bold border-b-4  border-pink-600'> Why I want to be a developer?</h1>
                 I wish to gain insight into the company, understand different departments and what they do, this way I can get a chance to 
-                specialise and with SovTech this is what I want to gain from the programme.</p> 
+                specialise in my field given to me by your company.</p> 
                 <p>Personal guidance and mentoring, if a senior is assigned to me, I love asking questions to understand every detail and I feel at SovTech this will help me grow and add to my personal growth.</p>
                 <p>A stronger CV, this programme will help me to stand out in the job market as SovTech is a very reputable company.</p> 
-                I want to work at SovTech as I have always being intrigued by Software Development and the impact it has had on my life. 
+                I want to work at your company as I have always being intrigued by Software Development and the impact it has had on my life from automation, testing and building applications. 
                 I have also found that I achieve more in a collaborative environment and look forward to work in several departments that align to my goals.
                   
             </div>
