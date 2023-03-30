@@ -20,10 +20,10 @@ const Home = () => {
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           <ul>
-          <li className= 'text-center font-bold text-xl text-[#ccd6f6]'>C# developer • Java developer • Web developer </li>
+          <li className= 'text-center font-bold text-xl text-[#ccd6f6]'>C# developer • React developer • Web developer </li>
           </ul>
-          I’m a Software developer wanting to speacialize in Web development and front-end design, I have created this website to showcase my 
-          skills and experience. I am pasionate about programming and simply enjoy a challenge, I'm flexible and able to adapt to my environment
+          I am a Software developer wanting to speacialize in Web development and front-end design, I have created this website to showcase my 
+          skills and experience. I am pasionate about programming and simply enjoy a challenge, I'm flexible and able to adapt to my environment.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>

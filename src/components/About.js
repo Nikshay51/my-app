@@ -9,7 +9,6 @@ const About = () => {
             <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>
               About 
             </p> 
-            <p className=' text-40 font-semibold'>Studied Bachelor in Computer Application Development</p>    
           </div>
 
           </div>
@@ -58,9 +57,9 @@ const About = () => {
             <div >
               <p>
                 <h1 className='text-20 font-bold border-b-4  border-pink-600'> Why I want to be a developer?</h1>
-                I wish to gain insight into the company, understand different departments and what they do, this way I can get a chance to 
-                specialise in my field given to me by your company.</p> 
-                <p>Personal guidance and mentoring, if a senior is assigned to me, I love asking questions to understand every detail and I feel at SovTech this will help me grow and add to my personal growth.</p>
+                I have studied BCAD- Bachelor is Information Sciences in Computer Application Development. I wish to gain insight into the company, understand different departments and what they do, this way I can get a chance to 
+                specialise in my field given to me by your company. </p> 
+                <p>Personal guidance and mentoring, if a senior is assigned to me, I love asking questions to understand every detail and I feel at your compnay this will help me grow and add to my personal growth.</p>
                 <p>A stronger CV, this programme will help me to stand out in the job market as SovTech is a very reputable company.</p> 
                 I want to work at your company as I have always being intrigued by Software Development and the impact it has had on my life from automation, testing and building applications. 
                 I have also found that I achieve more in a collaborative environment and look forward to work in several departments that align to my goals.

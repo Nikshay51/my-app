@@ -2,6 +2,8 @@ import Solid from '../assets/projects/solid.png'
 import Geosphere from '../assets/projects/geosphere.webp'
 import Marvel from '../assets/projects/marvel.png'
 import Budget from '../assets/projects/budget.jpeg'
+import virtualpet from '../assets/projects/virtualpet.png'
+import bowling from '../assets/projects/bowling.png'
 
 export const data=[
     {
@@ -32,20 +34,20 @@ export const data=[
         github:"https://github.com/Nikshay51/BudgetApplication.git",
         live:"",
     },
-    // {
-    //     id:5,
-    //     name:"C# Application",
-    //     image:Solid,
-    //     github:"",
-    //     live:"",
-    // },
-    // {
-    //     id:6,
-    //     name:"C# Application",
-    //     image:Geosphere,
-    //     github:"",
-    //     live:"",
-    // },
+    {
+        id:5,
+        name:"React Application",
+        image:virtualpet,
+        github:"https://github.com/AkonaSilwana/tamagotchi-app.git",
+        live:"",
+    },
+    {
+        id:6,
+        name:"React Application",
+        image:bowling,
+        github:"https://github.com/Nikshay51/Bowling.git",
+        live:"https://bowling-gg.vercel.app/",
+    },
 
 
 ]
