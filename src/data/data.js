@@ -39,7 +39,7 @@ export const data=[
         name:"React Application",
         image:virtualpet,
         github:"https://github.com/AkonaSilwana/tamagotchi-app.git",
-        live:"",
+        live:"https://virtual-pet-7vgv.vercel.app/",
     },
     {
         id:6,
